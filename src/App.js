@@ -1,5 +1,6 @@
-import logo from './logo.svg';
+import logo from './logo.jpg';
 import './App.css';
+import affiche from './Affiche Kiwanis.png'
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Concours Photos Kiwanis 2024- Revenez le 15 Février
         </p>
         <a
           className="App-link"
@@ -15,8 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
+        <img src={affiche} className="Affiche" alt="affiche" />
       </header>
     </div>
   );
