@@ -6,6 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
+p{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin:10px;
+  padding: auto;
+  font-size: x-large;
+}
 
 @media (prefers-reduced-motion: no-preference) {
  /*  .App-logo {

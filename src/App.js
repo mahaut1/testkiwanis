@@ -1,6 +1,6 @@
 import logo from './logo.jpg';
 import './App.css';
-import affiche from './Affiche Kiwanis.png'
+import affiche from './afficheQrCode.png'
 
 function App() {
   return (
