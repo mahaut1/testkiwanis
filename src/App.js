@@ -1,12 +1,10 @@
-import logo from './logo.jpg';
 import './App.css';
-import affiche from './afficheQrCode.png'
+import affiche from './affiche_concours_photo_30012024.png'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Concours Photos Kiwanis 2024- Revenez le 15 Février
         </p>

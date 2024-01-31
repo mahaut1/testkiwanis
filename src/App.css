@@ -10,7 +10,8 @@ p{
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   margin:10px;
   padding: auto;
-  font-size: x-large;
+  font-size: 50px;
+  color: black;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -21,7 +22,7 @@ p{
 
 .App-header {
   padding-top: 30px;
-  background-color: #282c34;
+  background-color:white;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
